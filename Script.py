@@ -18,8 +18,8 @@ class script(object):
 - I'M NOT A OPEN SOURCE PROJECT 
 - PLEASE CONTACT MY MASTER FOR MY DOUBTS AND COMPLAINTS 
 
-<b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+<b>𝗠𝗔𝗦𝗧𝗘𝗥:</b>
+- <a href=https://t.me/TOM_HOLLA_ND>𝗧𝗢𝗠 𝗛𝗢𝗟𝗟𝗔𝗡𝗗</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
