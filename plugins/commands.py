@@ -19,7 +19,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣𝗦 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥𝗘 𝗚𝗥𝗢𝗨𝗣𝗦 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘', switch_inline_query_current_chat=''),
             InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='https://t.me/NM_NEWMOVIESALWAYSHD')
