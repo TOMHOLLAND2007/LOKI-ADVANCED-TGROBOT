@@ -27,7 +27,7 @@ TELEGRAM, S ONE OF THE MOST ADVACED FEATURE BOT WITH MANY ABILITIES
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps) OR USE @LOKI_AUTOFILTER_bot SENT /id In Bot PM
+* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps) OR USE [LOKI_AUTOFILTER_bot](https://telegram.dog/LOKI_AUTOFILTER_bot), SENT /id In Bot PM
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of Files channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
